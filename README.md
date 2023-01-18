@@ -9,4 +9,5 @@
 3. Viewing the Website
     - open firefox
     - go to [localhost](http://localhost/)
-If all has be done correctly, the sample HTML file should appear in the browser. 
+---
+##### If all has be done correctly, the sample HTML file should appear in the browser. 
