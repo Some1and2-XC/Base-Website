@@ -1,4 +1,4 @@
-# INFT1000 Semester Project Front End
+# INFT1000 Semester Project Website
 ## Project Initialization
 ### Steps for Running the Project
 1. Installing the Requirements
